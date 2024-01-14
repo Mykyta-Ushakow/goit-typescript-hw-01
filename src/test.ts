@@ -4,4 +4,4 @@ function add(num1: number, num2: number) {
 
 add(1, 1);
 
-console.log("test");
+console.log("test log");
